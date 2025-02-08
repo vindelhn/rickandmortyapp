@@ -2,7 +2,7 @@
 
 <!-- TITLE -->
 ## Rick and Morty Flutter
-Flutter demo app using Flutter. Fetching data from network.
+Flutter demo app using Flutter. Fetching data from rickandmortyapi.com.
 
 
 <!-- ABOUT THE PROJECT -->
